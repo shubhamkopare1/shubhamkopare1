@@ -1,21 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Shubham+Kopare;Full-Stack+MERN+Developer;DSA+Enthusiast+🚀;Passionate+Problem+Solver" />
-</h1>
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kopare-10912729b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shubhamkopare1">
-    <img src="https://img.shields.io/badge/GitHub-121013?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/shubhamkopare/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/shubham_kopare05/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=160&section=header&text=Shubham%20Kopare&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications;Passionate+Problem+Solver+🚀" />
+</h1>
+
 
 ---
 
