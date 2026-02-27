@@ -1,14 +1,32 @@
 <!-- Clean Professional Header -->
 
+<!-- ===================== PROFESSIONAL HEADER ===================== -->
+
+<h1 align="center">Shubham Kopare</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=160&section=header&text=Shubham%20Kopare&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <b>Full-Stack Software Developer</b> • MERN Stack • Data Structures & Algorithms
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications;Passionate+Problem+Solver+🚀" />
-</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-kopare-10912729b/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://leetcode.com/u/shubhamkopare/">
+    LeetCode
+  </a>
+  •
+  <a href="https://github.com/shubhamkopare1">
+    GitHub
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  Focused on building scalable systems, writing clean code, and solving complex engineering problems.
+</p>
 
 ## About Me
 
