@@ -1,20 +1,12 @@
 <!-- Clean Professional Header -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shubham+Kopare;Full-Stack+MERN+Developer;Data+Structures+%26+Algorithms+Enthusiast" />
-</h1>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kopare-10912729b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/shubhamkopare/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
-  </a>
-  <a href="https://github.com/shubhamkopare1">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=160&section=header&text=Shubham%20Kopare&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;DSA+Enthusiast;Building+Scalable+Web+Applications;Passionate+Problem+Solver+🚀" />
+</h1>
 
 ---
 
