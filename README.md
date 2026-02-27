@@ -1,5 +1,3 @@
-<!-- Clean Professional Header -->
-
 <!-- ===================== PROFESSIONAL HEADER ===================== -->
 
 <h1 align="center">Shubham Kopare</h1>
@@ -10,15 +8,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-kopare-10912729b/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  •
+  &nbsp;
   <a href="https://leetcode.com/u/shubhamkopare/">
-    LeetCode
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
   </a>
-  •
+  &nbsp;
   <a href="https://github.com/shubhamkopare1">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
